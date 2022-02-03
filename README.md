@@ -5,6 +5,5 @@
 </div>
 
 ##
-<div>
-  ![snake gif](https://github.com/elCrixtof/elcrixtof/blob/output/github-contribution-grid-snake.gif)
-</div>
+![snake gif](https://github.com/elCrixtof/elcrixtof/blob/output/github-contribution-grid-snake.gif)
+
