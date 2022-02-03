@@ -1,4 +1,4 @@
-<h1 align="center">¡Welcome, make yourself at home!</h1>
+<h1 align="center">Welcome, would you like a repo? 😏</h1>
 
 <div align="center">
   <a href="https://github.com/elcrixtof">
