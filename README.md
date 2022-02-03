@@ -6,5 +6,5 @@
 
 ##  
 <div> 
-  ![Snake animation](https://github.com/elCrixtof/elcrixtof/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/elcrixtof/elcrixtof/blob/output/github-contribution-grid-snake.svg)
 </div>
